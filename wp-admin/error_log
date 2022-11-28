@@ -1,0 +1,173 @@
+[24-May-2019 02:24:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/kses.php on line 893
+[24-May-2019 02:24:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/kses.php on line 893
+[24-May-2019 02:24:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/kses.php on line 893
+[24-May-2019 02:25:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/kses.php on line 893
+[24-May-2019 02:25:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/kses.php on line 893
+[24-May-2019 02:25:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/kses.php on line 893
+[03-Mar-2022 21:40:00 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:00' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:00 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430000;', `expiration` = '2022-03-04 21:40:00', `created` = '2022-03-03 21:40:00', `updated` = '2022-03-03 21:40:00'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430000;', `expiration` = '2022-03-04 21:40:00', `updated` = '2022-03-03 21:40:00'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:01 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:01' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:05 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:05' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:05 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430005;', `expiration` = '2022-03-04 21:40:05', `created` = '2022-03-03 21:40:05', `updated` = '2022-03-03 21:40:05'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430005;', `expiration` = '2022-03-04 21:40:05', `updated` = '2022-03-03 21:40:05'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:05 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:05' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:05 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query DELETE FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NOT NULL AND expiration <= '2022-03-03 21:40:05' )
+/* 1 = 1 */ made by do_action('wp_ajax_as_async_request_queue_runner'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Async_Request->maybe_handle, ActionScheduler_AsyncRequest_QueueRunner->handle, do_action('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('aioseo_cache_prune'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\CachePrune->prune, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:06 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:06' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:06 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430006;', `expiration` = '2022-03-04 21:40:06', `created` = '2022-03-03 21:40:06', `updated` = '2022-03-03 21:40:06'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430006;', `expiration` = '2022-03-04 21:40:06', `updated` = '2022-03-03 21:40:06'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:06 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:06' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:10 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:10' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:10 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430010;', `expiration` = '2022-03-04 21:40:10', `created` = '2022-03-03 21:40:10', `updated` = '2022-03-03 21:40:10'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430010;', `expiration` = '2022-03-04 21:40:10', `updated` = '2022-03-03 21:40:10'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:10 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:10' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:13 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:13' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:13 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430013;', `expiration` = '2022-03-04 21:40:13', `created` = '2022-03-03 21:40:13', `updated` = '2022-03-03 21:40:13'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430013;', `expiration` = '2022-03-04 21:40:13', `updated` = '2022-03-03 21:40:13'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:13 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:13' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:14 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:14' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:14 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430014;', `expiration` = '2022-03-04 21:40:14', `created` = '2022-03-03 21:40:14', `updated` = '2022-03-03 21:40:14'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430014;', `expiration` = '2022-03-04 21:40:14', `updated` = '2022-03-03 21:40:14'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:14 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:14' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:16 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:16' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:16 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430016;', `expiration` = '2022-03-04 21:40:16', `created` = '2022-03-03 21:40:16', `updated` = '2022-03-03 21:40:16'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430016;', `expiration` = '2022-03-04 21:40:16', `updated` = '2022-03-03 21:40:16'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:16 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:16' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:29 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:29' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:29 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430029;', `expiration` = '2022-03-04 21:40:29', `created` = '2022-03-03 21:40:29', `updated` = '2022-03-03 21:40:29'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430029;', `expiration` = '2022-03-04 21:40:29', `updated` = '2022-03-03 21:40:29'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:29 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:29' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:39 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:39' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:39 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query INSERT INTO mwt2015_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1646430039;', `expiration` = '2022-03-04 21:40:39', `created` = '2022-03-03 21:40:39', `updated` = '2022-03-03 21:40:39'
+ON DUPLICATE KEY UPDATE `value` = 'i:1646430039;', `expiration` = '2022-03-04 21:40:39', `updated` = '2022-03-03 21:40:39'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[03-Mar-2022 21:40:39 UTC] WordPress database error Table 'db_mwt_wp5.mwt2015_aioseo_cache' doesn't exist for query SELECT 
+	`key`, `value`
+FROM mwt2015_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-03-03 21:40:39' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[28-Oct-2022 21:03:45 UTC] TFA: Beginning attempt to port private key encryption over to openssl

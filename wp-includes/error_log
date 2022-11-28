@@ -1,0 +1,39 @@
+[20-Jul-2020 17:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/locale.php on line 10
+[21-Jul-2020 08:05:46 UTC] PHP Fatal error:  Class 'Walker' not found in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/class-walker-nav-menu.php on line 17
+[23-Jul-2020 18:47:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:07 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:07 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:07 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:08 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:08 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:08 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:11 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[23-Jul-2020 18:47:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[14-Aug-2020 09:51:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[14-Aug-2020 09:51:05 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[14-Aug-2020 09:51:05 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[14-Aug-2020 09:51:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[29-Aug-2020 23:14:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[29-Aug-2020 23:14:43 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[29-Aug-2020 23:14:43 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[29-Aug-2020 23:14:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[12-Jan-2021 01:00:04 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[12-Jan-2021 01:00:04 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[12-Jan-2021 01:00:04 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[12-Jan-2021 01:00:04 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/functions.php on line 8
+[02-Jul-2021 20:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/locale.php on line 10
+[03-Jul-2021 11:50:03 UTC] PHP Fatal error:  Class 'Walker' not found in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/class-walker-nav-menu.php on line 17
+[05-Oct-2021 21:54:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/locale.php on line 10
+[06-Oct-2021 00:08:56 UTC] PHP Fatal error:  Class 'Walker' not found in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-includes/class-walker-nav-menu.php on line 17

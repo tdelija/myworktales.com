@@ -1,0 +1,64 @@
+[19-Jul-2019 23:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php on line 7
+[24-Aug-2019 13:21:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php on line 7
+[04-Sep-2019 12:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php on line 7
+[17-Sep-2019 19:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php on line 7
+[21-Sep-2019 03:27:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php on line 7
+[11-Nov-2019 18:32:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php on line 7
+[14-Nov-2019 22:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/index.php on line 7
+[16-Nov-2019 13:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
+[18-Nov-2019 09:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
+[13-Dec-2019 17:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
+[15-Dec-2019 17:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
+[12-Jan-2020 01:56:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
+[15-Jan-2020 02:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
+[17-Apr-2020 14:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
+[25-Apr-2020 09:57:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
+[22-May-2021 21:22:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ggi4wtpo20sj/public_html/myworktales.com/wp-content/themes/happenstance/404.php on line 7
